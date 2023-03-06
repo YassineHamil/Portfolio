@@ -225,13 +225,13 @@ header h2 {
     width: 0;
 }
 #p1 {
-    margin-left: 10vw;
+    margin-left: 5%;
 }
 #p2 {
     margin-left: 60%;
 }
 #p3 {
-    margin-left: 10vw;
+    margin-left: 5%;
 }
 .project img{
     transition: 0.4s ease-in-out;
