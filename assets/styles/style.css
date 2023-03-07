@@ -245,7 +245,7 @@ header h2 {
     margin-left: 5%;
 }
 #p2 {
-    margin-left: 50%;
+    margin-left: 55%;
 }
 #p3 {
     margin-left: 5%;
@@ -294,10 +294,10 @@ footer p {
 #l3 {
     transition-delay: 1.6s;
 }
-#l4 p {
+#l4 a {
     color: #000101;
 }
-#l6 p {
+#l6 a {
     color: #000101;
 }
 footer a {
