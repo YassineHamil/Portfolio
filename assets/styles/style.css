@@ -173,9 +173,27 @@ header h2 {
     text-align: center;
     margin: 0 auto;
     line-height: calc(7px + 4.5vw);
-    font-size: calc(0.8rem + 0.5vw);
+    font-size: calc(1rem + 0.5vw);
     letter-spacing: 1px;
     font-family: 'Roboto Mono', sans-serif ;
+}
+.cv_link {
+    text-align: center;
+}
+.about a {
+    width: 70%;
+    min-width: 280px;
+    margin: 0 auto;
+    line-height: calc(7px + 4.5vw);
+    font-size: calc(1rem + 0.8vw);
+    letter-spacing: 1px;
+    font-family: 'Roboto Mono', sans-serif ;
+    color: #000101;
+
+}
+.about a:hover {
+    background: #000101;
+    color: #fefeff;
 }
 .skills {
     margin: 200px 0 250px;
@@ -276,6 +294,12 @@ footer p {
 }
 #l3 {
     transition-delay: 1.6s;
+}
+#l4 a {
+    color: #000101;
+}
+#l6 a {
+    color: #000101;
 }
 footer a {
     color: #000101;
