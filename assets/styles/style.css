@@ -189,7 +189,6 @@ header h2 {
     letter-spacing: 1px;
     font-family: 'Roboto Mono', sans-serif ;
     color: #000101;
-
 }
 .about a:hover {
     background: #000101;
@@ -295,10 +294,10 @@ footer p {
 #l3 {
     transition-delay: 1.6s;
 }
-#l4 a {
+#l4 p {
     color: #000101;
 }
-#l6 a {
+#l6 p {
     color: #000101;
 }
 footer a {
