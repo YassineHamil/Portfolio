@@ -297,8 +297,16 @@ footer p {
 #l4 a {
     color: #000101;
 }
+#l4 a:hover {
+    color: #fefeff;
+    background: #000101;
+}
 #l6 a {
     color: #000101;
+}
+#l6 a:hover {
+    color: #fefeff;
+    background: #000101;
 }
 footer a {
     color: #000101;
