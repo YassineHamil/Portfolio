@@ -250,6 +250,9 @@ header h2 {
 #p3 {
     margin-left: 5%;
 }
+#p4 {
+    margin-left: 55%;
+}
 .project img{
     transition: 0.4s ease-in-out;
     width: 100%;
